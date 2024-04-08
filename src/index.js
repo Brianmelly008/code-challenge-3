@@ -1,5 +1,5 @@
 // Your code here
-const baseURL = 'http://localhost:3000';
+const baseURL = 'https://json-server-e4o7.onrender.com/';
 
 // Elements for ticket purchasing
 const buyTicketButton = document.getElementById('buy-ticket');
